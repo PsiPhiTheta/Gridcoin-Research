@@ -6,7 +6,7 @@
 #include "main.h"
 #include "bitcoinrpc.h"
 #include <fstream>
-#include "cpid.h"
+#include "gridcoin/cpid.h"
 #include "kernel.h"
 #include "init.h" // for pwalletMain
 #include "block.h"

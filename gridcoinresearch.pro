@@ -191,6 +191,7 @@ HEADERS += src/qt/bitcoingui.h \
     src/qt/upgradedialog.h \
     src/qt/editaddressdialog.h \
     src/qt/bitcoinaddressvalidator.h \
+    src/gridcoin/*.h \
     src/alert.h \
     src/addrman.h \
     src/base58.h \
@@ -280,6 +281,7 @@ SOURCES += src/qt/bitcoin.cpp src/qt/bitcoingui.cpp \
     src/qt/upgradedialog.cpp \
     src/qt/editaddressdialog.cpp \
     src/qt/bitcoinaddressvalidator.cpp \
+    src/gridcoin/*.cpp \
     src/alert.cpp \
     src/block.cpp \
     src/version.cpp \
